@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /servicos/
+
+Disallow: /imagens/
+Disallow: /videos/
+
+Sitemap: https://amplifying.com.br/sitemap.xml
